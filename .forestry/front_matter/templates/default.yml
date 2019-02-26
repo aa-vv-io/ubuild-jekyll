@@ -9,5 +9,6 @@ fields:
   hidden: false
   default: default
 pages:
+- altra storia.md
 - _posts/net qui.md
 - network qui marche.md
